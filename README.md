@@ -1,1 +1,1 @@
-# lp_glassmorphism
+# lp-glassmorphism
